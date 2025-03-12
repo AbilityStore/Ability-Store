@@ -12,7 +12,6 @@
 <div align="center">
   
   <h2>SOBRE NÓS:</h2>
-  <img align="right" src="https://uploaddeimagens.com.br/images/004/807/001/full/gaming_setup.png" width="22%" height="450px">
   
   <div height="400px" display="flex" items-center="center">
      <h3 align="left" width="50%">
