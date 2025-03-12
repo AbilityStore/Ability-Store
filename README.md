@@ -52,4 +52,4 @@ Além disso, oferecemos atendimento via WhatsApp ilimitado para garantir suporte
 Siga e fique por dentro das novidades e promoções!
 
 - WhatsApp: [Ability Store WhatsApp](https://wa.me/message/FQMP4TGQPWLGC1)
-- Site Oficial: [Ability Store](https://sc.olx.com.br/florianopolis-e-regiao/informatica/computadores-e-desktops/pc-gamer-novo-1381586859?lis=listing_no_category )
+- Site Oficial: [Ability Store](https://www.olx.com.br/perfil/ivone-a42d6aae)
