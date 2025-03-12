@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://uploaddeimagens.com.br/images/004/806/999/thumb/AbilityStore.png" width="100px" height="100px">
+  <a href="https://github.com/AbilityStore/Ability-Store/blob/main/zoomed_image.jpg">
+    <img src="https://github.com/AbilityStore/Ability-Store/blob/main/zoomed_image.jpg" width="200px">
+  </a>
   <h1>Ability Store</h1>
 </div>
+
 
 ![capa github readme ability store](https://uploaddeimagens.com.br/images/004/807/000/full/AbilityStoreBanner.png)
 
