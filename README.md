@@ -42,7 +42,7 @@ Além disso, oferecemos atendimento via WhatsApp ilimitado para garantir suporte
 ##
    <h2>Equipe:</h2>
    
-![image](https://uploaddeimagens.com.br/images/004/807/002/full/equipe_ability_store.png)
+  <img src="https://github.com/AbilityStore/Ability-Store/blob/main/perfil.jpg" width="200px">
 
 </div>
 <br/>
@@ -51,6 +51,5 @@ Além disso, oferecemos atendimento via WhatsApp ilimitado para garantir suporte
 
 Siga e fique por dentro das novidades e promoções!
 
-- Instagram: [Ability Store Instagram](https://www.instagram.com/abilitystore_oficial/)
-- WhatsApp: [Ability Store WhatsApp](https://wa.me/seu-numero)
-- Site Oficial: [Ability Store](https://www.abilitystore.com.br)
+- WhatsApp: [Ability Store WhatsApp](https://wa.me/message/FQMP4TGQPWLGC1)
+- Site Oficial: [Ability Store](https://sc.olx.com.br/florianopolis-e-regiao/informatica/computadores-e-desktops/pc-gamer-novo-1381586859?lis=listing_no_category )
