@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AbilityStore/Ability-Store/blob/main/zoomed_image.jpg">
-    <img src="https://github.com/AbilityStore/Ability-Store/blob/main/zoomed_image.jpg" width="200px">
+    <img src="https://github.com/AbilityStore/Ability-Store/blob/main/logo.png" width="200px">
   </a>
   <h1>Ability Store</h1>
 </div>
